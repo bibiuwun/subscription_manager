@@ -14,6 +14,6 @@ uses python library: pyrebase
 6. set-up realtime database under test mode
 
 # py files
-firebase.py - config information from set-up #4
-app_f.py - standard web_app on local host
+- firebase.py - config information from set-up #4
+- app_f.py - standard web_app on local host
 
