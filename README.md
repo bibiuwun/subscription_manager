@@ -1,4 +1,6 @@
 # subscription_manager
+demonstration of using restAPIs through python flask and google firebase
+easy webapp set-up on a real-world application (subscription_manager)
 
 # Preliminary firebase set-up using python
 uses python library: pyrebase
